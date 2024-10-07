@@ -1,5 +1,4 @@
 # repo-church
-Few items from Church
 The responsibilities of the church, as outlined in the Bible, encompass a variety of spiritual, communal, and outreach activities. Here are some key responsibilities:
 
 Worship and Praise: The church is called to gather for worship, honoring God through prayer, singing, and the teaching of His Word (Psalm 95:6, Hebrews 10:25).
